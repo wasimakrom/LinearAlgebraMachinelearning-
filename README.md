@@ -18,6 +18,7 @@ Python Machine Learning
 
 [Documentation](https://drive.google.com/file/d/1IVl4HJmzdsDCJB4umse5xm6Uiv8kwYtw/view?usp=sharing)
 
+[Assignments.pdf](https://github.com/wasimakrom/LinearAlgebraMachinelearning-/files/9632311/Assignments.pdf)
 
 ## Lessons Learned
 
