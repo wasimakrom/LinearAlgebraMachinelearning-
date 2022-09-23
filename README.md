@@ -18,7 +18,11 @@ Python Machine Learning
 
 [Documentation](https://drive.google.com/file/d/1IVl4HJmzdsDCJB4umse5xm6Uiv8kwYtw/view?usp=sharing)
 
-[Assignments.pdf](https://github.com/wasimakrom/LinearAlgebraMachinelearning-/files/9632311/Assignments.pdf)
+[Assignments.pdf](https://github.com/wasimakrom/LinearAlgebraMachinelearning-/files/9632311/Assignments.pdf)+
+
+## Assignment 
+![screencapture-coursera-org-learn-machine-learning-course-quiz-SlzWU-linear-algebra-view-attempt-2022-09-23-14_41_58](https://user-images.githubusercontent.com/91275196/191928970-9be01bc6-1a73-44a8-9740-f1eac6b1f029.png)
+
 
 ## Lessons Learned
 
